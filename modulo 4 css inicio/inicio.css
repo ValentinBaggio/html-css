@@ -1,0 +1,9 @@
+#compra-1{
+    color: red;
+}
+#super-1{
+    color: red;
+}
+div ul li:first-child{
+    font-size: 2rem;
+}
